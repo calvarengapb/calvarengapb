@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @calvarengapb
+- 👀 I’m interested in enterprise resource programming, business intelligence and Industry 4.0
+- 🌱 I’m currently learning Java with Spring and hexagonal architecture with java language
+- 💞️ I’m looking to collaborate with the sharing of knowledge in the most diverse areas of technology, from automation to data integration between systems.
+- 📫 How to reach me: from instagram @c.alvarenga.pb, or linkedin on #carlosalvarengati
